@@ -1,12 +1,11 @@
 body {
-    /* background-color: rgb(68, 234, 234); */
-    /* background: #a2d2ff; */
     background: linear-gradient(#a2d2ff, #EFB0C9);
     color: #ffffff;
     margin: 0px;
     text-align: center;
     font-family: 'Happy Monkey', cursive;
 }
+
 #dp {
     width: 190px;
     height: 200px;
@@ -14,11 +13,6 @@ body {
     border: 5px solid #EFB0C9;
 }
 
-/* .main{
-    border: 1px solid red;
-    width: 600px;
-    margin: 0px auto;
-} */
 h1,
 h2,
 h3,
@@ -31,7 +25,6 @@ p {
     background: #EFB0C9;
     padding: 5px 15px;
     border-radius: 5px;
-    /* margin-bottom: 10px; */
 }
 
 #bday-date {
@@ -39,7 +32,6 @@ p {
     background: #EFB0C9;
     padding: 5px 15px;
     border-radius: 5px;
-    /* margin-bottom: 20px; */
 
 }
 
@@ -62,11 +54,6 @@ p {
     margin: 0px auto;
 }
 
-/* .hbd-gif{
-    border: 5px solid white;
-    width: 300px;
-    border-radius: 10px;
-} */
 .gift-section {
     margin-top: 50px;
 }
@@ -79,19 +66,20 @@ p {
     margin-top: 0px;
 }
 
-
-#gift-img-happy:hover{
+#gift-img-happy:hover {
     background-image: url("images/peoplebday.webp");
     cursor: pointer;
 }
 
-#cover-img{
+#cover-img {
     background-image: url("images/giftcover1.jpg");
 }
-#cover-img:hover{
+
+#cover-img:hover {
     background-image: url("images/iphone.webp");
     cursor: pointer;
 }
-.hbd-gif{
+
+.hbd-gif {
     width: 350px;
 }
